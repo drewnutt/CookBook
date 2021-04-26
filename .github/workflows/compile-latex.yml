@@ -1,4 +1,3 @@
-on: [puname: Build LaTeX document
 on: [push]
 jobs:
   build_latex:
