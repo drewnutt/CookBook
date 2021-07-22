@@ -1,4 +1,4 @@
 # The Best CookBook
-This cookbook is a compilation of the recipes that Monica and I have tested and thoroughly enjoyed. Many(if not all) of the recipes are vegan/vegetarian. It is a work in progress and new recipes will continuously be added.
+This cookbook is a compilation of the recipes that Monica and I have tested and thoroughly enjoyed. Many (if not all) of the recipes are vegan/vegetarian. It is a work in progress and new recipes will continuously be added.
 
-A pre-compiled version of the cookbook can be found on Overleaf, [here](https://www.overleaf.com/read/nhnwbwmhbzrj).
+Click [here](https://raw.githubusercontent.com/drewnutt/CookBook/master/Cookbook.pdf) for the most current version of the cookbook.
