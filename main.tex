@@ -6,6 +6,7 @@
 \usepackage[nowarnings]{xcookybooky}
 \usepackage{imakeidx}
 \usepackage{float}
+\usepackage[titletoc]{appendix}
 
 
 \usepackage{hyperref} % this must be the last package that is imported!
@@ -246,9 +247,15 @@ Welcome to our cookbook. It's simply a compilation of recipes we have enjoyed ov
 \input{Instant_Pot/japanese_red_bean_paste.tex}
 
 \newpage
+
+\begin{appendices}        
 \section{Substitutes}
 \input{Substitutes/chia_seed_egg}
 
+\section{Thanksgiving Menus}
+\input{Thanksgiving}
+
 \printindex
+\end{appendices}        
 
 \end{document}
